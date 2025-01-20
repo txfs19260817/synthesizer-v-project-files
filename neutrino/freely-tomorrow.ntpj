@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <GeneratorVersion>1.1.0</GeneratorVersion>
+  <NeutrinoParameters>
+    <StyleShift>0</StyleShift>
+    <ModelDir>METAN</ModelDir>
+  </NeutrinoParameters>
+  <NsfParameters>
+    <PitchShift>0</PitchShift>
+  </NsfParameters>
+  <EditFilePaths>
+    <FilePath id="score">edit\score.xml</FilePath>
+    <FilePath id="pitch">edit\pitch.bin</FilePath>
+  </EditFilePaths>
+  <RenderInfoPath>render\render_info.xml</RenderInfoPath>
+</Project>
