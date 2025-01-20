@@ -1,0 +1,2183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Score resolution="480">
+  <Tempos>
+    <Tempo position="0" tempo="129" />
+  </Tempos>
+  <TimeSignatures>
+    <TimeSignature position="0" beats="4" beat-type="4" />
+  </TimeSignatures>
+  <Notes>
+    <Note position="6240" duration="120" note-number="68" lyric="こ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="6360" duration="360" note-number="70" lyric="ぉ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="6720" duration="360" note-number="68" lyric="こ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="7080" duration="120" note-number="66" lyric="ぉ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="7200" duration="480" note-number="66" lyric="ろ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="7680" duration="360" note-number="63" lyric="ご" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="8040" duration="30" note-number="63" lyric="と" breath="false">
+      <PhonemeTimings>
+        <PhonemeTiming order="1" offset="-13641" phoneme="o" />
+        <PhonemeTiming order="0" offset="256813" phoneme="t" />
+      </PhonemeTimings>
+    </Note>
+    <Note position="8070" duration="570" note-number="70" lyric="ぉ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="8880" duration="90" note-number="68" lyric="か" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="8970" duration="150" note-number="70" lyric="ぁ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="9120" duration="240" note-number="68" lyric="ら" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="9360" duration="240" note-number="66" lyric="だ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="9600" duration="360" note-number="63" lyric="ご" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="9960" duration="30" note-number="63" lyric="と" breath="false">
+      <PhonemeTimings>
+        <PhonemeTiming order="1" offset="-206621" phoneme="o" />
+        <PhonemeTiming order="0" offset="18152" phoneme="t" />
+      </PhonemeTimings>
+    </Note>
+    <Note position="9990" duration="570" note-number="70" lyric="ぉ" breath="true">
+      <PhonemeTimings />
+    </Note>
+    <Note position="10800" duration="90" note-number="68" lyric="ぜ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="10890" duration="150" note-number="70" lyric="ぇ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="11040" duration="240" note-number="68" lyric="ん" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="11280" duration="240" note-number="66" lyric="ぶ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="11520" duration="240" note-number="61" lyric="き" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="11760" duration="90" note-number="61" lyric="お" breath="false">
+      <PhonemeTimings>
+        <PhonemeTiming order="0" offset="443746" phoneme="o" />
+      </PhonemeTimings>
+    </Note>
+    <Note position="11850" duration="390" note-number="68" lyric="ぉ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="12240" duration="240" note-number="68" lyric="く" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="12480" duration="240" note-number="68" lyric="の" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="12720" duration="240" note-number="68" lyric="な" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="12960" duration="240" note-number="61" lyric="か" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="13200" duration="120" note-number="61" lyric="の" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="13320" duration="120" note-number="61" lyric="ま" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="13440" duration="240" note-number="65" lyric="ぁ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="13680" duration="240" note-number="63" lyric="ぼ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="13920" duration="240" note-number="65" lyric="ろ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="14160" duration="240" note-number="63" lyric="し" breath="true">
+      <PhonemeTimings />
+    </Note>
+    <Note position="14640" duration="120" note-number="68" lyric="ほ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="14760" duration="120" note-number="70" lyric="ぉ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="14880" duration="240" note-number="68" lyric="ん" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="15120" duration="240" note-number="66" lyric="と" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="15360" duration="360" note-number="63" lyric="お" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="15720" duration="60" note-number="63" lyric="の" breath="false">
+      <PhonemeTimings>
+        <PhonemeTiming order="1" offset="206394" phoneme="o" />
+      </PhonemeTimings>
+    </Note>
+    <Note position="15780" duration="540" note-number="70" lyric="ぉ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="16560" duration="120" note-number="68" lyric="あ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="16680" duration="120" note-number="70" lyric="ぁ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="16800" duration="240" note-number="68" lyric="い" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="17040" duration="240" note-number="66" lyric="じょ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="17280" duration="360" note-number="63" lyric="お" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="17640" duration="60" note-number="63" lyric="が" breath="false">
+      <PhonemeTimings>
+        <PhonemeTiming order="0" offset="142399" phoneme="g" />
+      </PhonemeTimings>
+    </Note>
+    <Note position="17700" duration="540" note-number="70" lyric="ぁ" breath="true">
+      <PhonemeTimings />
+    </Note>
+    <Note position="18480" duration="60" note-number="68" lyric="ゆ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="18540" duration="180" note-number="70" lyric="ゅ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="18720" duration="240" note-number="68" lyric="び" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="18960" duration="120" note-number="70" lyric="さ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="19080" duration="360" note-number="74" lyric="き" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="19440" duration="240" note-number="70" lyric="か" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="19680" duration="240" note-number="70" lyric="ら" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="19920" duration="240" note-number="68" lyric="な" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="20160" duration="240" note-number="68" lyric="が" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="20400" duration="240" note-number="68" lyric="れ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="20640" duration="240" note-number="70" lyric="だ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="20880" duration="120" note-number="68" lyric="し" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="21000" duration="1560" note-number="66" lyric="た" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="26640" duration="120" note-number="75" lyric="う" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="26760" duration="120" note-number="77" lyric="う" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="26880" duration="1200" note-number="75" lyric="う" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="28080" duration="120" note-number="77" lyric="う" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="28200" duration="120" note-number="75" lyric="う" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="28320" duration="240" note-number="73" lyric="う" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="28560" duration="480" note-number="70" lyric="う" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="31680" duration="120" note-number="73" lyric="う" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="31800" duration="120" note-number="75" lyric="う" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="31920" duration="480" note-number="73" lyric="う" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="32400" duration="120" note-number="71" lyric="う" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="32520" duration="120" note-number="70" lyric="う" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="32640" duration="240" note-number="73" lyric="いぇ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="32880" duration="240" note-number="73" lyric="え" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="33120" duration="720" note-number="71" lyric="え" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="37920" duration="240" note-number="63" lyric="と" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="38160" duration="120" note-number="65" lyric="お" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="38280" duration="600" note-number="66" lyric="く" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="39120" duration="240" note-number="66" lyric="か" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="39360" duration="240" note-number="66" lyric="ら" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="39600" duration="240" note-number="66" lyric="み" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="39840" duration="240" note-number="65" lyric="て" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="40080" duration="120" note-number="61" lyric="い" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="40200" duration="360" note-number="61" lyric="た" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="40560" duration="720" note-number="63" lyric="の" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="41760" duration="240" note-number="63" lyric="か" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="42000" duration="120" note-number="65" lyric="な" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="42120" duration="600" note-number="66" lyric="し" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="42960" duration="240" note-number="66" lyric="そ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="43200" duration="240" note-number="66" lyric="お" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="43440" duration="240" note-number="66" lyric="な" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="43680" duration="240" note-number="65" lyric="き" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="43920" duration="120" note-number="61" lyric="み" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="44040" duration="360" note-number="56" lyric="の" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="44400" duration="480" note-number="58" lyric="ふぇいすっ" breath="true">
+      <PhonemeTimings>
+        <PhonemeTiming order="2" offset="-566074" phoneme="i" />
+      </PhonemeTimings>
+    </Note>
+    <Note position="45360" duration="240" note-number="68" lyric="そ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="45600" duration="240" note-number="68" lyric="ら" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="45840" duration="180" note-number="68" lyric="の" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="46020" duration="300" note-number="70" lyric="ぉ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="46320" duration="240" note-number="70" lyric="な" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="46560" duration="240" note-number="68" lyric="み" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="46800" duration="120" note-number="65" lyric="だ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="46920" duration="360" note-number="66" lyric="ぁ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="47280" duration="300" note-number="68" lyric="と" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="47760" duration="120" note-number="63" lyric="お" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="47880" duration="360" note-number="65" lyric="ぉん" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="48240" duration="240" note-number="65" lyric="な" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="48480" duration="240" note-number="63" lyric="じ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="48720" duration="300" note-number="61" lyric="ね" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="49200" duration="240" note-number="61" lyric="お" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="49440" duration="240" note-number="63" lyric="お" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="49680" duration="240" note-number="61" lyric="つ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="49920" duration="240" note-number="60" lyric="ぶ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="50160" duration="240" note-number="60" lyric="の" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="50400" duration="120" note-number="60" lyric="あ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="50520" duration="240" note-number="60" lyric="め" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="50760" duration="90" note-number="60" lyric="が" breath="false">
+      <PhonemeTimings>
+        <PhonemeTiming order="0" offset="264089" phoneme="g" />
+      </PhonemeTimings>
+    </Note>
+    <Note position="50850" duration="750" note-number="68" lyric="ぁ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="51840" duration="60" note-number="61" lyric="あ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="51900" duration="180" note-number="62" lyric="ぁ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="52080" duration="240" note-number="62" lyric="ふ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="52320" duration="120" note-number="62" lyric="れ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="52440" duration="210" note-number="62" lyric="だ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="52650" duration="90" note-number="62" lyric="す" breath="false">
+      <PhonemeTimings>
+        <PhonemeTiming order="0" offset="510999" phoneme="s" />
+      </PhonemeTimings>
+    </Note>
+    <Note position="52740" duration="300" note-number="70" lyric="ぅ" breath="true">
+      <PhonemeTimings />
+    </Note>
+    <Note position="53280" duration="240" note-number="63" lyric="ふ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="53520" duration="120" note-number="65" lyric="い" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="53640" duration="600" note-number="66" lyric="に" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="54480" duration="240" note-number="66" lyric="き" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="54720" duration="240" note-number="66" lyric="ず" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="54960" duration="240" note-number="66" lyric="い" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="55200" duration="240" note-number="65" lyric="た" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="55440" duration="120" note-number="61" lyric="し" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="55560" duration="360" note-number="61" lyric="せ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="55920" duration="480" note-number="63" lyric="ん" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="57120" duration="240" note-number="63" lyric="は" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="57360" duration="120" note-number="65" lyric="あ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="57480" duration="480" note-number="66" lyric="と" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="58320" duration="240" note-number="66" lyric="い" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="58560" duration="240" note-number="66" lyric="き" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="58800" duration="240" note-number="66" lyric="を" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="59040" duration="240" note-number="65" lyric="ひ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="59280" duration="120" note-number="61" lyric="そ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="59400" duration="360" note-number="56" lyric="め" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="59760" duration="480" note-number="58" lyric="た" breath="true">
+      <PhonemeTimings />
+    </Note>
+    <Note position="60720" duration="240" note-number="68" lyric="ひ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="60960" duration="240" note-number="68" lyric="ん" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="61200" duration="120" note-number="68" lyric="や" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="61320" duration="360" note-number="70" lyric="ぁ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="61680" duration="240" note-number="70" lyric="り" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="61920" duration="240" note-number="68" lyric="と" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="62160" duration="120" note-number="63" lyric="つ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="62280" duration="360" note-number="66" lyric="ぅ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="62640" duration="240" note-number="68" lyric="め" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="63120" duration="120" note-number="63" lyric="た" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="63240" duration="360" note-number="65" lyric="ぁ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="63600" duration="240" note-number="65" lyric="い" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="63840" duration="240" note-number="63" lyric="て" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="64080" duration="240" note-number="61" lyric="が" breath="true">
+      <PhonemeTimings />
+    </Note>
+    <Note position="64560" duration="240" note-number="61" lyric="と" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="64800" duration="240" note-number="63" lyric="ま" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="65040" duration="180" note-number="66" lyric="ど" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="65220" duration="60" note-number="66" lyric="う" breath="true">
+      <PhonemeTimings />
+    </Note>
+    <Note position="65520" duration="240" note-number="61" lyric="き" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="65760" duration="240" note-number="63" lyric="み" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="66000" duration="240" note-number="66" lyric="の" breath="true">
+      <PhonemeTimings />
+    </Note>
+    <Note position="66480" duration="240" note-number="61" lyric="ほ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="66720" duration="240" note-number="63" lyric="ほ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="66960" duration="90" note-number="63" lyric="に" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="67050" duration="630" note-number="66" lyric="ぃ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="67680" duration="120" note-number="66" lyric="ふ" breath="false">
+      <PhonemeTimings>
+        <PhonemeTiming order="1" offset="-9459" phoneme="u" />
+      </PhonemeTimings>
+    </Note>
+    <Note position="67800" duration="360" note-number="65" lyric="ぅ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="68160" duration="240" note-number="63" lyric="れ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="68400" duration="720" note-number="65" lyric="た" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="69840" duration="240" note-number="61" lyric="ざ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="70320" duration="240" note-number="66" lyric="と" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="70560" duration="240" note-number="65" lyric="お" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="70800" duration="720" note-number="58" lyric="に" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="71760" duration="240" note-number="58" lyric="の" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="72000" duration="240" note-number="58" lyric="み" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="72240" duration="240" note-number="68" lyric="こ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="72480" duration="240" note-number="65" lyric="ま" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="72720" duration="120" note-number="65" lyric="れ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="72840" duration="600" note-number="66" lyric="ぇ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="73680" duration="120" note-number="63" lyric="わ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="73800" duration="120" note-number="66" lyric="ぁ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="73920" duration="240" note-number="66" lyric="す" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="74160" duration="240" note-number="63" lyric="れ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="74400" duration="240" note-number="66" lyric="て" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="74640" duration="120" note-number="66" lyric="し" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="74760" duration="360" note-number="67" lyric="ぃ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="75120" duration="240" note-number="67" lyric="ま" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="75360" duration="240" note-number="67" lyric="あ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="75600" duration="240" note-number="63" lyric="た" breath="true">
+      <PhonemeTimings />
+    </Note>
+    <Note position="76080" duration="360" note-number="63" lyric="ぬ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="76440" duration="360" note-number="67" lyric="く" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="76800" duration="120" note-number="67" lyric="も" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="76920" duration="240" note-number="68" lyric="ぉ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="77160" duration="360" note-number="68" lyric="り" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="77520" duration="240" note-number="68" lyric="が" breath="true">
+      <PhonemeTimings />
+    </Note>
+    <Note position="78000" duration="360" note-number="63" lyric="や" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="78360" duration="360" note-number="68" lyric="さ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="78720" duration="120" note-number="68" lyric="し" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="78840" duration="240" note-number="69" lyric="ぃ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="79080" duration="360" note-number="69" lyric="さ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="79440" duration="240" note-number="69" lyric="が" breath="true">
+      <PhonemeTimings />
+    </Note>
+    <Note position="79920" duration="360" note-number="63" lyric="は" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="80280" duration="360" note-number="69" lyric="し" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="80640" duration="120" note-number="69" lyric="る" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="80760" duration="1560" note-number="70" lyric="ぅ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="83040" duration="120" note-number="68" lyric="こ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="83160" duration="360" note-number="70" lyric="ぉ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="83520" duration="360" note-number="68" lyric="こ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="83880" duration="120" note-number="66" lyric="ぉ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="84000" duration="480" note-number="66" lyric="ろ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="84480" duration="360" note-number="63" lyric="ご" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="84840" duration="30" note-number="63" lyric="と" breath="false">
+      <PhonemeTimings>
+        <PhonemeTiming order="0" offset="236788" phoneme="t" />
+      </PhonemeTimings>
+    </Note>
+    <Note position="84870" duration="570" note-number="70" lyric="ぉ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="85680" duration="90" note-number="68" lyric="か" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="85770" duration="150" note-number="70" lyric="ぁ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="85920" duration="240" note-number="68" lyric="ら" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="86160" duration="240" note-number="66" lyric="だ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="86400" duration="360" note-number="63" lyric="ご" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="86760" duration="30" note-number="63" lyric="と" breath="false">
+      <PhonemeTimings>
+        <PhonemeTiming order="1" offset="-177603" phoneme="o" />
+      </PhonemeTimings>
+    </Note>
+    <Note position="86790" duration="570" note-number="70" lyric="ぉ" breath="true">
+      <PhonemeTimings />
+    </Note>
+    <Note position="87600" duration="90" note-number="68" lyric="ぜ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="87690" duration="150" note-number="70" lyric="ぇ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="87840" duration="240" note-number="68" lyric="ん" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="88080" duration="240" note-number="66" lyric="ぶ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="88320" duration="240" note-number="61" lyric="き" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="88560" duration="90" note-number="61" lyric="お" breath="false">
+      <PhonemeTimings>
+        <PhonemeTiming order="0" offset="520570" phoneme="o" />
+      </PhonemeTimings>
+    </Note>
+    <Note position="88650" duration="390" note-number="68" lyric="ぉ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="89040" duration="240" note-number="68" lyric="く" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="89280" duration="240" note-number="68" lyric="の" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="89520" duration="240" note-number="68" lyric="な" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="89760" duration="240" note-number="61" lyric="か" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="90000" duration="120" note-number="61" lyric="の" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="90120" duration="120" note-number="61" lyric="ま" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="90240" duration="240" note-number="65" lyric="ぁ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="90480" duration="240" note-number="63" lyric="ぼ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="90720" duration="240" note-number="65" lyric="ろ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="90960" duration="240" note-number="63" lyric="し" breath="true">
+      <PhonemeTimings />
+    </Note>
+    <Note position="91440" duration="120" note-number="68" lyric="ほ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="91560" duration="120" note-number="70" lyric="ぉ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="91680" duration="240" note-number="68" lyric="ん" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="91920" duration="240" note-number="66" lyric="と" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="92160" duration="360" note-number="63" lyric="お" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="92520" duration="60" note-number="63" lyric="の" breath="false">
+      <PhonemeTimings>
+        <PhonemeTiming order="1" offset="198021" phoneme="o" />
+      </PhonemeTimings>
+    </Note>
+    <Note position="92580" duration="540" note-number="70" lyric="ぉ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="93360" duration="120" note-number="68" lyric="あ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="93480" duration="120" note-number="70" lyric="ぁ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="93600" duration="240" note-number="68" lyric="い" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="93840" duration="240" note-number="66" lyric="じょ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="94080" duration="360" note-number="63" lyric="お" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="94440" duration="60" note-number="63" lyric="が" breath="false">
+      <PhonemeTimings>
+        <PhonemeTiming order="0" offset="128640" phoneme="g" />
+      </PhonemeTimings>
+    </Note>
+    <Note position="94500" duration="540" note-number="70" lyric="ぁ" breath="true">
+      <PhonemeTimings />
+    </Note>
+    <Note position="95280" duration="60" note-number="68" lyric="ゆ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="95340" duration="180" note-number="70" lyric="ゅ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="95520" duration="240" note-number="68" lyric="び" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="95760" duration="120" note-number="70" lyric="さ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="95880" duration="360" note-number="74" lyric="き" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="96240" duration="240" note-number="70" lyric="か" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="96480" duration="240" note-number="70" lyric="ら" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="96720" duration="240" note-number="68" lyric="な" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="96960" duration="240" note-number="68" lyric="が" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="97200" duration="240" note-number="68" lyric="れ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="97440" duration="240" note-number="70" lyric="だ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="97680" duration="120" note-number="68" lyric="し" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="97800" duration="840" note-number="66" lyric="た" breath="true">
+      <PhonemeTimings />
+    </Note>
+    <Note position="98880" duration="150" note-number="68" lyric="か" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="99030" duration="210" note-number="70" lyric="ぁ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="99240" duration="360" note-number="68" lyric="お" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="99600" duration="240" note-number="66" lyric="あ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="99840" duration="360" note-number="63" lyric="げ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="100200" duration="60" note-number="63" lyric="て" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="100260" duration="540" note-number="70" lyric="ぇ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="101040" duration="90" note-number="68" lyric="ほ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="101130" duration="150" note-number="70" lyric="ぉ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="101280" duration="240" note-number="68" lyric="ほ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="101520" duration="240" note-number="66" lyric="え" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="101760" duration="360" note-number="63" lyric="め" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="102120" duration="60" note-number="63" lyric="ば" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="102180" duration="540" note-number="70" lyric="ぁ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="102960" duration="120" note-number="68" lyric="え" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="103080" duration="120" note-number="70" lyric="ぇ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="103200" duration="240" note-number="68" lyric="が" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="103440" duration="240" note-number="66" lyric="お" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="103680" duration="360" note-number="61" lyric="と" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="104040" duration="90" note-number="61" lyric="り" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="104130" duration="270" note-number="68" lyric="ぃ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="104400" duration="240" note-number="68" lyric="も" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="104640" duration="240" note-number="68" lyric="ど" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="104880" duration="240" note-number="68" lyric="す" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="105120" duration="240" note-number="61" lyric="ま" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="105360" duration="120" note-number="61" lyric="ほ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="105480" duration="90" note-number="61" lyric="お" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="105570" duration="270" note-number="65" lyric="ぉ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="105840" duration="240" note-number="63" lyric="に" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="106080" duration="240" note-number="65" lyric="な" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="106320" duration="240" note-number="63" lyric="る" breath="true">
+      <PhonemeTimings />
+    </Note>
+    <Note position="106800" duration="240" note-number="61" lyric="こ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="107040" duration="240" note-number="63" lyric="こ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="107280" duration="240" note-number="66" lyric="ろ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="107520" duration="180" note-number="70" lyric="の" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="107820" duration="60" note-number="70" lyric="く" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="107880" duration="180" note-number="70" lyric="の" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="108180" duration="60" note-number="70" lyric="く" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="108240" duration="180" note-number="70" lyric="の" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="108720" duration="240" note-number="61" lyric="ふ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="108960" duration="240" note-number="63" lyric="し" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="109200" duration="240" note-number="66" lyric="ぎ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="109440" duration="180" note-number="68" lyric="とゅいぃ" breath="false">
+      <PhonemeTimings>
+        <PhonemeTiming order="0" offset="-326174" phoneme="t" />
+      </PhonemeTimings>
+    </Note>
+    <Note position="109740" duration="60" note-number="68" lyric="く" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="109800" duration="180" note-number="68" lyric="とゅいぃ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="110100" duration="60" note-number="68" lyric="く" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="110160" duration="180" note-number="68" lyric="とゅいぃ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="110640" duration="240" note-number="61" lyric="う" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="110880" duration="240" note-number="63" lyric="ま" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="111120" duration="240" note-number="66" lyric="れ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="111360" duration="120" note-number="63" lyric="か" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="111480" duration="360" note-number="66" lyric="ぁ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="111840" duration="120" note-number="64" lyric="わ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="111960" duration="360" note-number="63" lyric="ぁ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="112320" duration="120" note-number="62" lyric="れ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="112440" duration="360" note-number="61" lyric="ぇ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="112800" duration="480" note-number="63" lyric="る" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="114210" duration="60" note-number="68" lyric="ふぅ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="114270" duration="210" note-number="70" lyric="い" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="114480" duration="120" note-number="70" lyric="り" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="114600" duration="240" note-number="68" lyric="とぅ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="114840" duration="120" note-number="70" lyric="も" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="114960" duration="2160" note-number="63" lyric="ろ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="118560" duration="240" note-number="63" lyric="す" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="118800" duration="120" note-number="65" lyric="こ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="118920" duration="360" note-number="66" lyric="し" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="119760" duration="120" note-number="65" lyric="ふ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="119880" duration="120" note-number="66" lyric="ぅ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="120000" duration="240" note-number="66" lyric="る" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="120240" duration="240" note-number="66" lyric="え" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="120480" duration="240" note-number="65" lyric="て" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="120720" duration="120" note-number="61" lyric="い" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="120840" duration="360" note-number="61" lyric="た" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="121200" duration="480" note-number="63" lyric="の" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="122400" duration="240" note-number="63" lyric="お" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="122640" duration="120" note-number="65" lyric="さ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="122760" duration="480" note-number="66" lyric="な" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="123600" duration="150" note-number="65" lyric="く" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="123750" duration="90" note-number="66" lyric="ぅ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="123840" duration="240" note-number="66" lyric="な" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="124080" duration="240" note-number="66" lyric="る" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="124320" duration="240" note-number="65" lyric="き" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="124560" duration="120" note-number="61" lyric="み" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="124680" duration="360" note-number="56" lyric="の" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="125040" duration="360" note-number="58" lyric="き" breath="false">
+      <PhonemeTimings>
+        <PhonemeTiming order="1" offset="-149292" phoneme="i" />
+      </PhonemeTimings>
+    </Note>
+    <Note position="125400" duration="120" note-number="58" lyric="す’っ" breath="true">
+      <PhonemeTimings>
+        <PhonemeTiming order="1" offset="962121" phoneme="u" />
+      </PhonemeTimings>
+    </Note>
+    <Note position="126000" duration="240" note-number="68" lyric="こ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="126240" duration="240" note-number="68" lyric="ん" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="126480" duration="180" note-number="68" lyric="な" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="126660" duration="300" note-number="70" lyric="ぁ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="126960" duration="240" note-number="70" lyric="こ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="127200" duration="240" note-number="68" lyric="い" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="127440" duration="120" note-number="65" lyric="し" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="127560" duration="360" note-number="66" lyric="ぃ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="127920" duration="240" note-number="68" lyric="ら" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="128400" duration="480" note-number="65" lyric="な" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="128880" duration="240" note-number="65" lyric="い" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="129120" duration="240" note-number="63" lyric="か" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="129360" duration="240" note-number="61" lyric="ら" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="129840" duration="240" note-number="61" lyric="も" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="130080" duration="240" note-number="63" lyric="お" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="130320" duration="240" note-number="61" lyric="す" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="130560" duration="240" note-number="60" lyric="こ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="130800" duration="240" note-number="60" lyric="し" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="131040" duration="120" note-number="60" lyric="そ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="131160" duration="240" note-number="60" lyric="ば" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="131400" duration="600" note-number="68" lyric="で" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="132300" duration="180" note-number="60" lyric="よ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="132480" duration="240" note-number="62" lyric="り" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="132720" duration="240" note-number="62" lyric="そ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="132960" duration="120" note-number="62" lyric="い" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="133080" duration="240" note-number="62" lyric="た" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="133320" duration="90" note-number="62" lyric="い" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="133410" duration="270" note-number="70" lyric="ぃ" breath="true">
+      <PhonemeTimings />
+    </Note>
+    <Note position="133920" duration="240" note-number="63" lyric="き" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="134160" duration="120" note-number="65" lyric="み" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="134280" duration="480" note-number="66" lyric="の" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="135120" duration="240" note-number="66" lyric="な" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="135360" duration="240" note-number="66" lyric="ま" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="135600" duration="240" note-number="66" lyric="え" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="135840" duration="240" note-number="65" lyric="を" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="136080" duration="120" note-number="61" lyric="よ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="136200" duration="360" note-number="61" lyric="べ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="136560" duration="480" note-number="63" lyric="ず" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="137760" duration="240" note-number="63" lyric="きゅ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="138000" duration="120" note-number="65" lyric="う" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="138120" duration="480" note-number="66" lyric="に" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="138960" duration="240" note-number="66" lyric="だ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="139200" duration="240" note-number="66" lyric="ま" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="139440" duration="240" note-number="66" lyric="り" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="139680" duration="240" note-number="65" lyric="こ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="139920" duration="120" note-number="61" lyric="ん" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="140040" duration="360" note-number="56" lyric="だ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="140400" duration="480" note-number="58" lyric="ね" breath="true">
+      <PhonemeTimings />
+    </Note>
+    <Note position="141360" duration="240" note-number="68" lyric="こ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="141600" duration="240" note-number="68" lyric="と" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="141840" duration="90" note-number="68" lyric="ば" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="141930" duration="390" note-number="70" lyric="ぁ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="142320" duration="240" note-number="70" lyric="に" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="142560" duration="240" note-number="68" lyric="で" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="142800" duration="90" note-number="67" lyric="き" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="142890" duration="390" note-number="66" lyric="ぃ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="143280" duration="120" note-number="68" lyric="な" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="143400" duration="120" note-number="68" lyric="い" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="143760" duration="90" note-number="63" lyric="や" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="143850" duration="390" note-number="65" lyric="ぁ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="144240" duration="240" note-number="65" lyric="く" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="144480" duration="240" note-number="63" lyric="そ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="144720" duration="240" note-number="61" lyric="く" breath="true">
+      <PhonemeTimings />
+    </Note>
+    <Note position="145200" duration="240" note-number="61" lyric="と" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="145440" duration="240" note-number="63" lyric="き" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="145680" duration="240" note-number="66" lyric="を" breath="true">
+      <PhonemeTimings />
+    </Note>
+    <Note position="146160" duration="240" note-number="61" lyric="こ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="146400" duration="240" note-number="63" lyric="え" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="146640" duration="240" note-number="66" lyric="て" breath="true">
+      <PhonemeTimings />
+    </Note>
+    <Note position="147120" duration="240" note-number="61" lyric="ゆ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="147360" duration="240" note-number="63" lyric="め" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="147600" duration="720" note-number="66" lyric="に" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="148320" duration="90" note-number="66" lyric="み" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="148410" duration="390" note-number="65" lyric="ぃ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="148800" duration="240" note-number="63" lyric="て" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="149040" duration="720" note-number="65" lyric="た" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="150480" duration="90" note-number="60" lyric="あ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="150570" duration="150" note-number="61" lyric="ぁ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="150720" duration="240" note-number="61" lyric="か" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="150960" duration="240" note-number="66" lyric="つ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="151200" duration="240" note-number="65" lyric="き" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="151440" duration="720" note-number="58" lyric="に" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="152400" duration="240" note-number="58" lyric="そ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="152640" duration="240" note-number="58" lyric="ま" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="152880" duration="240" note-number="68" lyric="あ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="153120" duration="240" note-number="65" lyric="て" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="153360" duration="720" note-number="66" lyric="く" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="154320" duration="240" note-number="66" lyric="ほ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="154560" duration="240" note-number="66" lyric="し" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="154800" duration="240" note-number="63" lyric="ぞ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="155040" duration="240" note-number="66" lyric="ら" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="155280" duration="90" note-number="66" lyric="の" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="155370" duration="390" note-number="67" lyric="ぉ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="155760" duration="480" note-number="67" lyric="よ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="156240" duration="240" note-number="63" lyric="に" breath="true">
+      <PhonemeTimings />
+    </Note>
+    <Note position="156720" duration="360" note-number="63" lyric="か" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="157080" duration="360" note-number="67" lyric="な" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="157440" duration="360" note-number="68" lyric="し" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="157800" duration="360" note-number="68" lyric="み" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="158160" duration="240" note-number="68" lyric="が" breath="true">
+      <PhonemeTimings />
+    </Note>
+    <Note position="158640" duration="360" note-number="63" lyric="く" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="159000" duration="360" note-number="68" lyric="る" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="159360" duration="360" note-number="69" lyric="し" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="159720" duration="360" note-number="69" lyric="み" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="160080" duration="240" note-number="69" lyric="が" breath="true">
+      <PhonemeTimings />
+    </Note>
+    <Note position="160560" duration="360" note-number="63" lyric="き" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="160920" duration="360" note-number="69" lyric="え" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="161280" duration="90" note-number="69" lyric="る" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="161370" duration="1590" note-number="70" lyric="ぅ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="163680" duration="120" note-number="68" lyric="こ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="163800" duration="360" note-number="70" lyric="ぉ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="164160" duration="360" note-number="68" lyric="こ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="164520" duration="120" note-number="66" lyric="ぉ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="164640" duration="480" note-number="66" lyric="ろ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="165120" duration="360" note-number="63" lyric="ご" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="165480" duration="30" note-number="63" lyric="と" breath="false">
+      <PhonemeTimings>
+        <PhonemeTiming order="0" offset="178286" phoneme="t" />
+      </PhonemeTimings>
+    </Note>
+    <Note position="165510" duration="570" note-number="70" lyric="ぉ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="166320" duration="90" note-number="68" lyric="か" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="166410" duration="150" note-number="70" lyric="ぁ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="166560" duration="240" note-number="68" lyric="ら" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="166800" duration="240" note-number="66" lyric="だ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="167040" duration="360" note-number="63" lyric="ご" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="167400" duration="30" note-number="63" lyric="と" breath="false">
+      <PhonemeTimings>
+        <PhonemeTiming order="1" offset="-208502" phoneme="o" />
+      </PhonemeTimings>
+    </Note>
+    <Note position="167430" duration="570" note-number="70" lyric="ぉ" breath="true">
+      <PhonemeTimings />
+    </Note>
+    <Note position="168240" duration="90" note-number="68" lyric="ぜ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="168330" duration="150" note-number="70" lyric="ぇ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="168480" duration="240" note-number="68" lyric="ん" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="168720" duration="240" note-number="66" lyric="ぶ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="168960" duration="360" note-number="61" lyric="ぬ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="169320" duration="90" note-number="61" lyric="ぎ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="169410" duration="270" note-number="68" lyric="ぃ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="169680" duration="240" note-number="68" lyric="す" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="169920" duration="240" note-number="68" lyric="て" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="170160" duration="240" note-number="68" lyric="た" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="170400" duration="240" note-number="61" lyric="こ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="170640" duration="120" note-number="61" lyric="の" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="170760" duration="90" note-number="61" lyric="た" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="170850" duration="270" note-number="65" lyric="ぁ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="171120" duration="240" note-number="63" lyric="ま" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="171360" duration="240" note-number="65" lyric="し" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="171600" duration="240" note-number="63" lyric="い" breath="true">
+      <PhonemeTimings />
+    </Note>
+    <Note position="172080" duration="240" note-number="70" lyric="な" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="172320" duration="240" note-number="68" lyric="く" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="172560" duration="240" note-number="66" lyric="し" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="172800" duration="360" note-number="63" lyric="て" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="173160" duration="90" note-number="63" lyric="た" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="173250" duration="510" note-number="70" lyric="ぁ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="174000" duration="90" note-number="68" lyric="ね" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="174090" duration="150" note-number="70" lyric="ぇ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="174240" duration="240" note-number="68" lyric="つ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="174480" duration="240" note-number="66" lyric="じょ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="174720" duration="360" note-number="63" lyric="お" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="175080" duration="90" note-number="63" lyric="が" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="175170" duration="510" note-number="70" lyric="ぁ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="175920" duration="60" note-number="68" lyric="ゆ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="175980" duration="180" note-number="70" lyric="ゅ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="176160" duration="240" note-number="68" lyric="び" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="176400" duration="120" note-number="70" lyric="さ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="176520" duration="360" note-number="74" lyric="き" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="176880" duration="240" note-number="70" lyric="か" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="177120" duration="240" note-number="70" lyric="ら" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="177360" duration="240" note-number="68" lyric="な" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="177600" duration="240" note-number="68" lyric="が" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="177840" duration="240" note-number="68" lyric="れ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="178080" duration="240" note-number="70" lyric="だ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="178320" duration="120" note-number="68" lyric="し" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="178440" duration="840" note-number="66" lyric="た" breath="true">
+      <PhonemeTimings />
+    </Note>
+    <Note position="179520" duration="90" note-number="68" lyric="お" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="179610" duration="270" note-number="70" lyric="ぉ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="179880" duration="360" note-number="68" lyric="そ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="180240" duration="240" note-number="66" lyric="れ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="180480" duration="360" note-number="63" lyric="ず" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="180840" duration="90" note-number="63" lyric="に" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="180930" duration="510" note-number="70" lyric="ぃ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="181680" duration="240" note-number="70" lyric="も" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="181920" duration="240" note-number="68" lyric="と" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="182160" duration="240" note-number="66" lyric="め" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="182400" duration="360" note-number="63" lyric="れ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="182760" duration="90" note-number="63" lyric="ば" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="182850" duration="510" note-number="70" lyric="ぁ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="183600" duration="150" note-number="68" lyric="そ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="183750" duration="90" note-number="70" lyric="ぉ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="183840" duration="240" note-number="68" lyric="れ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="184080" duration="240" note-number="66" lyric="わ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="184320" duration="360" note-number="61" lyric="み" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="184680" duration="120" note-number="61" lyric="ら" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="184800" duration="240" note-number="68" lyric="ぁ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="185040" duration="240" note-number="68" lyric="い" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="185280" duration="240" note-number="68" lyric="を" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="185520" duration="240" note-number="68" lyric="か" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="185760" duration="240" note-number="61" lyric="え" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="186000" duration="120" note-number="61" lyric="る" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="186120" duration="90" note-number="61" lyric="れ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="186210" duration="270" note-number="65" lyric="ぇ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="186480" duration="240" note-number="63" lyric="ぼ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="186720" duration="240" note-number="65" lyric="りゅ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="186960" duration="180" note-number="63" lyric="しょ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="187140" duration="60" note-number="63" lyric="ん" breath="true">
+      <PhonemeTimings />
+    </Note>
+    <Note position="187440" duration="240" note-number="61" lyric="こ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="187680" duration="240" note-number="63" lyric="こ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="187920" duration="240" note-number="66" lyric="ろ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="188160" duration="180" note-number="70" lyric="の" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="188460" duration="60" note-number="70" lyric="く" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="188520" duration="180" note-number="70" lyric="の" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="188820" duration="60" note-number="70" lyric="く" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="188880" duration="180" note-number="70" lyric="の" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="189360" duration="240" note-number="61" lyric="ふ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="189600" duration="240" note-number="63" lyric="し" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="189840" duration="240" note-number="66" lyric="ぎ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="190080" duration="180" note-number="68" lyric="とゅいぃ" breath="false">
+      <PhonemeTimings>
+        <PhonemeTiming order="0" offset="-292731" phoneme="t" />
+      </PhonemeTimings>
+    </Note>
+    <Note position="190380" duration="60" note-number="68" lyric="く" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="190440" duration="180" note-number="68" lyric="とゅいぃ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="190740" duration="60" note-number="68" lyric="く" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="190800" duration="180" note-number="68" lyric="とゅいぃ" breath="true">
+      <PhonemeTimings />
+    </Note>
+    <Note position="191280" duration="240" note-number="61" lyric="き" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="191520" duration="240" note-number="63" lyric="せ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="191760" duration="240" note-number="66" lyric="き" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="192000" duration="120" note-number="63" lyric="わ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="192120" duration="360" note-number="66" lyric="ぁ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="192480" duration="120" note-number="64" lyric="お" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="192600" duration="360" note-number="63" lyric="ぉ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="192960" duration="120" note-number="62" lyric="き" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="193080" duration="360" note-number="61" lyric="ぃ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="193440" duration="480" note-number="63" lyric="る" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="194850" duration="60" note-number="68" lyric="ふぅ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="194910" duration="210" note-number="70" lyric="い" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="195120" duration="120" note-number="70" lyric="り" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="195240" duration="240" note-number="68" lyric="とぅ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="195480" duration="120" note-number="70" lyric="も" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="195600" duration="2160" note-number="63" lyric="ろ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="209760" duration="120" note-number="68" lyric="こ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="209880" duration="360" note-number="70" lyric="ぉ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="210240" duration="360" note-number="68" lyric="こ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="210600" duration="120" note-number="66" lyric="ぉ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="210720" duration="480" note-number="66" lyric="ろ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="211200" duration="360" note-number="63" lyric="ご" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="211560" duration="30" note-number="63" lyric="と" breath="false">
+      <PhonemeTimings>
+        <PhonemeTiming order="0" offset="190992" phoneme="t" />
+      </PhonemeTimings>
+    </Note>
+    <Note position="211590" duration="570" note-number="70" lyric="ぉ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="212400" duration="90" note-number="68" lyric="か" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="212490" duration="150" note-number="70" lyric="ぁ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="212640" duration="240" note-number="68" lyric="ら" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="212880" duration="240" note-number="66" lyric="だ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="213120" duration="360" note-number="63" lyric="ご" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="213480" duration="30" note-number="63" lyric="と" breath="false">
+      <PhonemeTimings>
+        <PhonemeTiming order="1" offset="-204788" phoneme="o" />
+      </PhonemeTimings>
+    </Note>
+    <Note position="213510" duration="570" note-number="70" lyric="ぉ" breath="true">
+      <PhonemeTimings />
+    </Note>
+    <Note position="214320" duration="90" note-number="68" lyric="ぜ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="214410" duration="150" note-number="70" lyric="ぇ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="214560" duration="240" note-number="68" lyric="ん" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="214800" duration="240" note-number="66" lyric="ぶ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="215040" duration="240" note-number="61" lyric="き" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="215280" duration="90" note-number="61" lyric="お" breath="false">
+      <PhonemeTimings>
+        <PhonemeTiming order="0" offset="454549" phoneme="o" />
+      </PhonemeTimings>
+    </Note>
+    <Note position="215370" duration="390" note-number="68" lyric="ぉ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="215760" duration="240" note-number="68" lyric="く" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="216000" duration="240" note-number="68" lyric="の" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="216240" duration="240" note-number="68" lyric="な" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="216480" duration="240" note-number="61" lyric="か" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="216720" duration="120" note-number="61" lyric="の" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="216840" duration="120" note-number="61" lyric="ま" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="216960" duration="240" note-number="65" lyric="ぁ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="217200" duration="240" note-number="63" lyric="ぼ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="217440" duration="240" note-number="65" lyric="ろ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="217680" duration="240" note-number="63" lyric="し" breath="true">
+      <PhonemeTimings />
+    </Note>
+    <Note position="218160" duration="120" note-number="68" lyric="ほ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="218280" duration="120" note-number="70" lyric="ぉ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="218400" duration="240" note-number="68" lyric="ん" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="218640" duration="240" note-number="66" lyric="と" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="218880" duration="360" note-number="63" lyric="お" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="219240" duration="60" note-number="63" lyric="の" breath="false">
+      <PhonemeTimings>
+        <PhonemeTiming order="1" offset="183231" phoneme="o" />
+      </PhonemeTimings>
+    </Note>
+    <Note position="219300" duration="540" note-number="70" lyric="ぉ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="220080" duration="120" note-number="68" lyric="あ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="220200" duration="120" note-number="70" lyric="ぁ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="220320" duration="240" note-number="68" lyric="い" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="220560" duration="240" note-number="66" lyric="じょ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="220800" duration="360" note-number="63" lyric="お" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="221160" duration="60" note-number="63" lyric="が" breath="false">
+      <PhonemeTimings>
+        <PhonemeTiming order="0" offset="189667" phoneme="g" />
+      </PhonemeTimings>
+    </Note>
+    <Note position="221220" duration="540" note-number="70" lyric="ぁ" breath="true">
+      <PhonemeTimings />
+    </Note>
+    <Note position="222000" duration="60" note-number="68" lyric="ゆ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="222060" duration="180" note-number="70" lyric="ゅ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="222240" duration="240" note-number="68" lyric="び" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="222480" duration="120" note-number="70" lyric="さ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="222600" duration="360" note-number="74" lyric="き" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="222960" duration="240" note-number="70" lyric="か" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="223200" duration="240" note-number="70" lyric="ら" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="223440" duration="240" note-number="68" lyric="な" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="223680" duration="240" note-number="68" lyric="が" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="223920" duration="240" note-number="68" lyric="れ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="224160" duration="240" note-number="70" lyric="だ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="224400" duration="120" note-number="68" lyric="し" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="224520" duration="840" note-number="66" lyric="た" breath="true">
+      <PhonemeTimings />
+    </Note>
+    <Note position="225600" duration="150" note-number="68" lyric="か" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="225750" duration="210" note-number="70" lyric="ぁ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="225960" duration="360" note-number="68" lyric="お" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="226320" duration="240" note-number="66" lyric="あ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="226560" duration="360" note-number="63" lyric="げ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="226920" duration="60" note-number="63" lyric="て" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="226980" duration="540" note-number="70" lyric="ぇ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="227760" duration="60" note-number="68" lyric="ほ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="227820" duration="180" note-number="70" lyric="ぉ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="228000" duration="240" note-number="68" lyric="ほ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="228240" duration="240" note-number="66" lyric="え" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="228480" duration="360" note-number="63" lyric="め" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="228840" duration="60" note-number="63" lyric="ば" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="228900" duration="540" note-number="70" lyric="ぁ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="229680" duration="90" note-number="68" lyric="え" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="229770" duration="150" note-number="70" lyric="ぇ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="229920" duration="240" note-number="68" lyric="が" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="230160" duration="240" note-number="66" lyric="お" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="230400" duration="360" note-number="61" lyric="と" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="230760" duration="90" note-number="61" lyric="り" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="230850" duration="270" note-number="68" lyric="ぃ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="231120" duration="240" note-number="68" lyric="も" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="231360" duration="240" note-number="68" lyric="ど" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="231600" duration="240" note-number="68" lyric="す" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="231840" duration="240" note-number="61" lyric="ま" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="232080" duration="120" note-number="61" lyric="ほ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="232200" duration="90" note-number="61" lyric="お" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="232290" duration="270" note-number="65" lyric="ぉ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="232560" duration="240" note-number="63" lyric="に" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="232800" duration="240" note-number="65" lyric="な" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="233040" duration="240" note-number="63" lyric="る" breath="true">
+      <PhonemeTimings />
+    </Note>
+    <Note position="233520" duration="240" note-number="61" lyric="こ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="233760" duration="240" note-number="63" lyric="こ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="234000" duration="240" note-number="66" lyric="ろ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="234240" duration="180" note-number="70" lyric="の" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="234540" duration="60" note-number="70" lyric="く" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="234600" duration="180" note-number="70" lyric="の" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="234900" duration="60" note-number="70" lyric="く" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="234960" duration="180" note-number="70" lyric="の" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="235440" duration="240" note-number="61" lyric="ふ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="235680" duration="240" note-number="63" lyric="し" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="235920" duration="240" note-number="66" lyric="ぎ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="236160" duration="180" note-number="68" lyric="とゅいぃ" breath="false">
+      <PhonemeTimings>
+        <PhonemeTiming order="0" offset="-361415" phoneme="t" />
+      </PhonemeTimings>
+    </Note>
+    <Note position="236460" duration="60" note-number="68" lyric="く" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="236520" duration="180" note-number="68" lyric="とゅいぃ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="236820" duration="60" note-number="68" lyric="く" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="236880" duration="180" note-number="68" lyric="とゅいぃ" breath="true">
+      <PhonemeTimings />
+    </Note>
+    <Note position="237360" duration="240" note-number="61" lyric="う" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="237600" duration="240" note-number="63" lyric="ま" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="237840" duration="240" note-number="66" lyric="れ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="238080" duration="120" note-number="63" lyric="か" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="238200" duration="360" note-number="66" lyric="ぁ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="238560" duration="120" note-number="64" lyric="わ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="238680" duration="360" note-number="63" lyric="ぁ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="239040" duration="120" note-number="62" lyric="れ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="239160" duration="360" note-number="61" lyric="ぇ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="239520" duration="480" note-number="63" lyric="る" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="240930" duration="60" note-number="68" lyric="ふぅ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="240990" duration="210" note-number="70" lyric="い" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="241200" duration="120" note-number="70" lyric="り" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="241320" duration="240" note-number="68" lyric="とぅ" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="241560" duration="120" note-number="70" lyric="も" breath="false">
+      <PhonemeTimings />
+    </Note>
+    <Note position="241680" duration="1920" note-number="63" lyric="ろ" breath="false">
+      <PhonemeTimings />
+    </Note>
+  </Notes>
+</Score>
