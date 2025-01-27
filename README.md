@@ -10,6 +10,11 @@ A repository to store project files of Synthesizer V / Neutrino song I made
 - [脳裏上のクラッカー - 宮舞モカ【SynthV カバー】 - ニコニコ動画](https://www.nicovideo.jp/watch/sm44560434)
 - Instrumental: https://piapro.jp/t/1n92
 
+### 嘘じゃない
+
+- [嘘じゃない / ずっと真夜中でいいのに。 feat. 宮舞モカ_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1sXf2YcEou/)
+- Instrumental: https://piapro.jp/t/0KC0
+
 ## Neutrino
 
 ### Freely Tomorrow
