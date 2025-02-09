@@ -1,6 +1,6 @@
 # synthesizer-v-project-files
 
-A repository to store project files of Synthesizer V / Neutrino song I made
+A repository storing project files of Synthesizer V / Neutrino song I made.
 
 ## Synthesizer V
 
@@ -15,6 +15,10 @@ A repository to store project files of Synthesizer V / Neutrino song I made
 - [嘘じゃない / ずっと真夜中でいいのに。 feat. 宮舞モカ_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1sXf2YcEou/)
 - [嘘じゃない / ずっと真夜中でいいのに。 - 宮舞モカ【SynthV カバー】 - ニコニコ動画](https://www.nicovideo.jp/watch/sm44588043)
 - Instrumental: https://piapro.jp/t/0KC0
+
+### 幾億光年
+
+- [幾億光年 / Omoinotake。 - 宮舞モカ & 夏色花梨 (Synthesizer V AI翻唱)](https://www.bilibili.com/video/BV1FENQenEQo/)
 
 ## Neutrino
 
