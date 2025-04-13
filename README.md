@@ -23,6 +23,9 @@ A repository storing project files of Synthesizer V / Neutrino song I made.
 
 ### 雨とカプチーノ
 
+- [【MV】雨とカプチーノ - 宮舞モカ (Synthesizer V2翻唱)_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1MWdBYTEgZ)
+- [【パロMV】雨とカプチーノ - 宮舞モカ 【Synthesizer V2 カバー】 - ニコニコ動画](https://www.nicovideo.jp/watch/sm44873680)
+
 ## Neutrino
 
 ### Freely Tomorrow
