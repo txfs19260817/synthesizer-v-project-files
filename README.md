@@ -21,6 +21,8 @@ A repository storing project files of Synthesizer V / Neutrino song I made.
 - [幾億光年 / Omoinotake - 宮舞モカ & 夏色花梨 (Synthesizer V AI翻唱)_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1FENQenEQo/)
 - [幾億光年 / Omoinotake - 宮舞モカ & 夏色花梨【SynthV カバー】 - ニコニコ動画](https://www.nicovideo.jp/watch/sm44633287)
 
+### 雨とカプチーノ
+
 ## Neutrino
 
 ### Freely Tomorrow

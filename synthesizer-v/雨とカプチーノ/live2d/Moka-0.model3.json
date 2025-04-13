@@ -1,0 +1,29 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Moka-0.moc3",
+		"Textures": [
+			"Moka-0.4096/texture_00.png"
+		],
+		"Physics": "Moka-0.physics3.json",
+		"DisplayInfo": "Moka-0.cdi3.json",
+		"MotionSync": "Moka-0.motionsync3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		}
+	]
+}
